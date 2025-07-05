@@ -120,3 +120,7 @@
   background-repeat: no-repeat;
   background-position: center;
 }
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
